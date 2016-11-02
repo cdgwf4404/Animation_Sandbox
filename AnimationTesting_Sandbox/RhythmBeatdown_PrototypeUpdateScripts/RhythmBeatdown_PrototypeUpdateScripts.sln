@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DE172110-2A5D-8CED-230F-5744F61372C8}") = "RhythmBeatdown_PrototypeUpdateScripts", "Assembly-CSharp-firstpass.csproj", "{C1E7F30F-7804-B70C-C2BC-788FDD8C3AB4}"
+EndProject
+Project("{DE172110-2A5D-8CED-230F-5744F61372C8}") = "RhythmBeatdown_PrototypeUpdateScripts", "Assembly-CSharp.csproj", "{B84C3FCC-081C-875F-31EE-04396B1C530F}"
+EndProject
+Project("{DE172110-2A5D-8CED-230F-5744F61372C8}") = "RhythmBeatdown_PrototypeUpdateScripts", "Assembly-CSharp-Editor.csproj", "{F0A2FCC5-1FB9-1218-4C7A-78E3CA9AE694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E7F30F-7804-B70C-C2BC-788FDD8C3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E7F30F-7804-B70C-C2BC-788FDD8C3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E7F30F-7804-B70C-C2BC-788FDD8C3AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E7F30F-7804-B70C-C2BC-788FDD8C3AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84C3FCC-081C-875F-31EE-04396B1C530F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84C3FCC-081C-875F-31EE-04396B1C530F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84C3FCC-081C-875F-31EE-04396B1C530F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84C3FCC-081C-875F-31EE-04396B1C530F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A2FCC5-1FB9-1218-4C7A-78E3CA9AE694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A2FCC5-1FB9-1218-4C7A-78E3CA9AE694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A2FCC5-1FB9-1218-4C7A-78E3CA9AE694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A2FCC5-1FB9-1218-4C7A-78E3CA9AE694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

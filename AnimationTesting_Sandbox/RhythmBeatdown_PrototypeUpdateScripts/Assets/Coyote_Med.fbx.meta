@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: e8913110273600141b500fa4578f3500
+timeCreated: 1477942099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Female_Coyote_Rig:Female_Coyote
+    100004: Female_Coyote_Rig:Geo_GRP
+    100006: Female_Coyote_Rig:Head
+    100008: Female_Coyote_Rig:Head 1
+    100010: Female_Coyote_Rig:Head_Joint
+    100012: Female_Coyote_Rig:Hip
+    100014: Female_Coyote_Rig:Hip_Joint
+    100016: Female_Coyote_Rig:Lef_Hand
+    100018: Female_Coyote_Rig:Left_Arm
+    100020: Female_Coyote_Rig:Left_Arm_Joint
+    100022: Female_Coyote_Rig:Left_Ear
+    100024: Female_Coyote_Rig:Left_Ear_Joint
+    100026: Female_Coyote_Rig:Left_Elbow_Joint
+    100028: Female_Coyote_Rig:Left_Foot1
+    100030: Female_Coyote_Rig:Left_Foot_Joint
+    100032: Female_Coyote_Rig:Left_Hand_Joint
+    100034: Female_Coyote_Rig:Left_Leg
+    100036: Female_Coyote_Rig:Left_Lower_Arm
+    100038: Female_Coyote_Rig:Left_Lower_Leg
+    100040: Female_Coyote_Rig:Left_Lower_Leg_Joint
+    100042: Female_Coyote_Rig:Left_Toes
+    100044: Female_Coyote_Rig:Left_Toes_Joint
+    100046: Female_Coyote_Rig:Left_Upper_Arm
+    100048: Female_Coyote_Rig:Left_Upper_Leg
+    100050: Female_Coyote_Rig:Left_Upper_Leg_Joint
+    100052: Female_Coyote_Rig:Neck_1
+    100054: Female_Coyote_Rig:Neck_1_Joint
+    100056: Female_Coyote_Rig:Neck_2
+    100058: Female_Coyote_Rig:Neck_2_Joint
+    100060: Female_Coyote_Rig:polySurface24
+    100062: Female_Coyote_Rig:Right_Arm
+    100064: Female_Coyote_Rig:Right_Arm_Joint
+    100066: Female_Coyote_Rig:Right_Ear
+    100068: Female_Coyote_Rig:Right_Ear_Joint
+    100070: Female_Coyote_Rig:Right_Elbow_Joint
+    100072: Female_Coyote_Rig:Right_Foot1
+    100074: Female_Coyote_Rig:Right_Foot_Joint
+    100076: Female_Coyote_Rig:Right_Hand
+    100078: Female_Coyote_Rig:Right_Hand_Joint
+    100080: Female_Coyote_Rig:Right_Leg
+    100082: Female_Coyote_Rig:Right_Lower_Arm
+    100084: Female_Coyote_Rig:Right_Lower_Leg
+    100086: Female_Coyote_Rig:Right_Lower_Leg_Joint
+    100088: Female_Coyote_Rig:Right_Toes
+    100090: Female_Coyote_Rig:Right_Toes_Joint
+    100092: Female_Coyote_Rig:Right_Upper_Arm
+    100094: Female_Coyote_Rig:Right_Upper_Leg
+    100096: Female_Coyote_Rig:Right_Upper_Leg_Joint
+    100098: Female_Coyote_Rig:Skeleton_GRP
+    100100: Female_Coyote_Rig:Stomach
+    100102: Female_Coyote_Rig:Stomach_Joint
+    100104: Female_Coyote_Rig:Tail
+    100106: Female_Coyote_Rig:Tail_1
+    100108: Female_Coyote_Rig:Tail_1_Joint
+    100110: Female_Coyote_Rig:Tail_2
+    100112: Female_Coyote_Rig:Tail_2_Joint
+    100114: Female_Coyote_Rig:Tail_3
+    100116: Female_Coyote_Rig:Tail_3_Joint
+    100118: Female_Coyote_Rig:TailGRP
+    100120: Female_Coyote_Rig:Torso
+    100122: Female_Coyote_Rig:Torso 1
+    100124: Female_Coyote_Rig:Torso_Joint
+    100126: pCube1
+    400000: //RootNode
+    400002: Female_Coyote_Rig:Female_Coyote
+    400004: Female_Coyote_Rig:Geo_GRP
+    400006: Female_Coyote_Rig:Head
+    400008: Female_Coyote_Rig:Head 1
+    400010: Female_Coyote_Rig:Head_Joint
+    400012: Female_Coyote_Rig:Hip
+    400014: Female_Coyote_Rig:Hip_Joint
+    400016: Female_Coyote_Rig:Lef_Hand
+    400018: Female_Coyote_Rig:Left_Arm
+    400020: Female_Coyote_Rig:Left_Arm_Joint
+    400022: Female_Coyote_Rig:Left_Ear
+    400024: Female_Coyote_Rig:Left_Ear_Joint
+    400026: Female_Coyote_Rig:Left_Elbow_Joint
+    400028: Female_Coyote_Rig:Left_Foot1
+    400030: Female_Coyote_Rig:Left_Foot_Joint
+    400032: Female_Coyote_Rig:Left_Hand_Joint
+    400034: Female_Coyote_Rig:Left_Leg
+    400036: Female_Coyote_Rig:Left_Lower_Arm
+    400038: Female_Coyote_Rig:Left_Lower_Leg
+    400040: Female_Coyote_Rig:Left_Lower_Leg_Joint
+    400042: Female_Coyote_Rig:Left_Toes
+    400044: Female_Coyote_Rig:Left_Toes_Joint
+    400046: Female_Coyote_Rig:Left_Upper_Arm
+    400048: Female_Coyote_Rig:Left_Upper_Leg
+    400050: Female_Coyote_Rig:Left_Upper_Leg_Joint
+    400052: Female_Coyote_Rig:Neck_1
+    400054: Female_Coyote_Rig:Neck_1_Joint
+    400056: Female_Coyote_Rig:Neck_2
+    400058: Female_Coyote_Rig:Neck_2_Joint
+    400060: Female_Coyote_Rig:polySurface24
+    400062: Female_Coyote_Rig:Right_Arm
+    400064: Female_Coyote_Rig:Right_Arm_Joint
+    400066: Female_Coyote_Rig:Right_Ear
+    400068: Female_Coyote_Rig:Right_Ear_Joint
+    400070: Female_Coyote_Rig:Right_Elbow_Joint
+    400072: Female_Coyote_Rig:Right_Foot1
+    400074: Female_Coyote_Rig:Right_Foot_Joint
+    400076: Female_Coyote_Rig:Right_Hand
+    400078: Female_Coyote_Rig:Right_Hand_Joint
+    400080: Female_Coyote_Rig:Right_Leg
+    400082: Female_Coyote_Rig:Right_Lower_Arm
+    400084: Female_Coyote_Rig:Right_Lower_Leg
+    400086: Female_Coyote_Rig:Right_Lower_Leg_Joint
+    400088: Female_Coyote_Rig:Right_Toes
+    400090: Female_Coyote_Rig:Right_Toes_Joint
+    400092: Female_Coyote_Rig:Right_Upper_Arm
+    400094: Female_Coyote_Rig:Right_Upper_Leg
+    400096: Female_Coyote_Rig:Right_Upper_Leg_Joint
+    400098: Female_Coyote_Rig:Skeleton_GRP
+    400100: Female_Coyote_Rig:Stomach
+    400102: Female_Coyote_Rig:Stomach_Joint
+    400104: Female_Coyote_Rig:Tail
+    400106: Female_Coyote_Rig:Tail_1
+    400108: Female_Coyote_Rig:Tail_1_Joint
+    400110: Female_Coyote_Rig:Tail_2
+    400112: Female_Coyote_Rig:Tail_2_Joint
+    400114: Female_Coyote_Rig:Tail_3
+    400116: Female_Coyote_Rig:Tail_3_Joint
+    400118: Female_Coyote_Rig:TailGRP
+    400120: Female_Coyote_Rig:Torso
+    400122: Female_Coyote_Rig:Torso 1
+    400124: Female_Coyote_Rig:Torso_Joint
+    400126: pCube1
+    2300000: Female_Coyote_Rig:Head 1
+    2300002: Female_Coyote_Rig:Hip
+    2300004: Female_Coyote_Rig:Lef_Hand
+    2300006: Female_Coyote_Rig:Left_Ear
+    2300008: Female_Coyote_Rig:Left_Foot1
+    2300010: Female_Coyote_Rig:Left_Lower_Arm
+    2300012: Female_Coyote_Rig:Left_Lower_Leg
+    2300014: Female_Coyote_Rig:Left_Toes
+    2300016: Female_Coyote_Rig:Left_Upper_Arm
+    2300018: Female_Coyote_Rig:Left_Upper_Leg
+    2300020: Female_Coyote_Rig:Neck_1
+    2300022: Female_Coyote_Rig:Neck_2
+    2300024: Female_Coyote_Rig:Right_Ear
+    2300026: Female_Coyote_Rig:Right_Foot1
+    2300028: Female_Coyote_Rig:Right_Hand
+    2300030: Female_Coyote_Rig:Right_Lower_Arm
+    2300032: Female_Coyote_Rig:Right_Lower_Leg
+    2300034: Female_Coyote_Rig:Right_Toes
+    2300036: Female_Coyote_Rig:Right_Upper_Arm
+    2300038: Female_Coyote_Rig:Right_Upper_Leg
+    2300040: Female_Coyote_Rig:Stomach
+    2300042: Female_Coyote_Rig:Tail_1
+    2300044: Female_Coyote_Rig:Tail_2
+    2300046: Female_Coyote_Rig:Tail_3
+    2300048: Female_Coyote_Rig:Torso 1
+    2300050: pCube1
+    3300000: Female_Coyote_Rig:Head 1
+    3300002: Female_Coyote_Rig:Hip
+    3300004: Female_Coyote_Rig:Lef_Hand
+    3300006: Female_Coyote_Rig:Left_Ear
+    3300008: Female_Coyote_Rig:Left_Foot1
+    3300010: Female_Coyote_Rig:Left_Lower_Arm
+    3300012: Female_Coyote_Rig:Left_Lower_Leg
+    3300014: Female_Coyote_Rig:Left_Toes
+    3300016: Female_Coyote_Rig:Left_Upper_Arm
+    3300018: Female_Coyote_Rig:Left_Upper_Leg
+    3300020: Female_Coyote_Rig:Neck_1
+    3300022: Female_Coyote_Rig:Neck_2
+    3300024: Female_Coyote_Rig:Right_Ear
+    3300026: Female_Coyote_Rig:Right_Foot1
+    3300028: Female_Coyote_Rig:Right_Hand
+    3300030: Female_Coyote_Rig:Right_Lower_Arm
+    3300032: Female_Coyote_Rig:Right_Lower_Leg
+    3300034: Female_Coyote_Rig:Right_Toes
+    3300036: Female_Coyote_Rig:Right_Upper_Arm
+    3300038: Female_Coyote_Rig:Right_Upper_Leg
+    3300040: Female_Coyote_Rig:Stomach
+    3300042: Female_Coyote_Rig:Tail_1
+    3300044: Female_Coyote_Rig:Tail_2
+    3300046: Female_Coyote_Rig:Tail_3
+    3300048: Female_Coyote_Rig:Torso 1
+    3300050: pCube1
+    4300000: Female_Coyote_Rig:Tail_1
+    4300002: Female_Coyote_Rig:Tail_2
+    4300004: Female_Coyote_Rig:Tail_3
+    4300006: Female_Coyote_Rig:Left_Upper_Arm
+    4300008: Female_Coyote_Rig:Left_Lower_Arm
+    4300010: Female_Coyote_Rig:Lef_Hand
+    4300012: Female_Coyote_Rig:Torso
+    4300014: Female_Coyote_Rig:Stomach
+    4300016: Female_Coyote_Rig:Hip
+    4300018: Female_Coyote_Rig:Neck_1
+    4300020: Female_Coyote_Rig:Neck_2
+    4300022: Female_Coyote_Rig:Head
+    4300024: Female_Coyote_Rig:Left_Ear
+    4300026: Female_Coyote_Rig:Right_Ear
+    4300028: Female_Coyote_Rig:Right_Lower_Arm
+    4300030: Female_Coyote_Rig:Right_Upper_Arm
+    4300032: Female_Coyote_Rig:Right_Hand
+    4300034: Female_Coyote_Rig:Left_Upper_Leg
+    4300036: Female_Coyote_Rig:Left_Lower_Leg
+    4300038: Female_Coyote_Rig:Left_Foot1
+    4300040: Female_Coyote_Rig:Left_Toes
+    4300042: Female_Coyote_Rig:Right_Lower_Leg
+    4300044: Female_Coyote_Rig:Right_Upper_Leg
+    4300046: Female_Coyote_Rig:Right_Foot1
+    4300048: Female_Coyote_Rig:Right_Toes
+    4300050: pCube1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

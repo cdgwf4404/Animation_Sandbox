@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RefactoredScripts\StandardAttacks.cs">
+    <Files>
+      <File FileName="Assets\RefactoredScripts\Move4.cs" Line="77" Column="49" />
+      <File FileName="Assets\RefactoredScripts\CharAnimation.cs" Line="27" Column="35" />
+      <File FileName="Assets\RefactoredScripts\InputManager.cs" Line="260" Column="7" />
+      <File FileName="Assets\RefactoredScripts\StandardAttacks.cs" Line="161" Column="3" />
+      <File FileName="Assets\RefactoredScripts\HitCollider.cs" Line="27" Column="13" />
+      <File FileName="Assets\RefactoredScripts\FighterStates.cs" Line="5" Column="69" />
+      <File FileName="Assets\RefactoredScripts\Fighter.cs" Line="44" Column="47" />
+      <File FileName="Assets\FighterStateBehavior.cs" Line="13" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

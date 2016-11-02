@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 369478114c3c86b45b77d525c2e86f42
+timeCreated: 1477942161
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Female_Coyote
+    100004: Geo_GRP
+    100006: Guitar1
+    100008: Head
+    100010: Head 1
+    100012: Head_Joint
+    100014: Hip
+    100016: Hip_Joint
+    100018: Lef_Hand
+    100020: Left_Arm
+    100022: Left_Arm_Joint
+    100024: Left_Ear
+    100026: Left_Ear_Joint
+    100028: Left_Elbow_Joint
+    100030: Left_Foot1
+    100032: Left_Foot_Joint
+    100034: Left_Hand_Joint
+    100036: Left_Leg
+    100038: Left_Lower_Arm
+    100040: Left_Lower_Leg
+    100042: Left_Lower_Leg_Joint
+    100044: Left_Toes
+    100046: Left_Toes_Joint
+    100048: Left_Upper_Arm
+    100050: Left_Upper_Leg
+    100052: Left_Upper_Leg_Joint
+    100054: Neck_1
+    100056: Neck_1_Joint
+    100058: Neck_2
+    100060: Neck_2_Joint
+    100062: polySurface24
+    100064: Right_Arm
+    100066: Right_Arm_Joint
+    100068: Right_Ear
+    100070: Right_Ear_Joint
+    100072: Right_Elbow_Joint
+    100074: Right_Foot1
+    100076: Right_Foot_Joint
+    100078: Right_Hand
+    100080: Right_Hand_Joint
+    100082: Right_Leg
+    100084: Right_Lower_Arm
+    100086: Right_Lower_Leg
+    100088: Right_Lower_Leg_Joint
+    100090: Right_Toes
+    100092: Right_Toes_Joint
+    100094: Right_Upper_Arm
+    100096: Right_Upper_Leg
+    100098: Right_Upper_Leg_Joint
+    100100: Skeleton_GRP
+    100102: Stomach
+    100104: Stomach_Joint
+    100106: Tail
+    100108: Tail_1
+    100110: Tail_1_Joint
+    100112: Tail_2
+    100114: Tail_2_Joint
+    100116: Tail_3
+    100118: Tail_3_Joint
+    100120: TailGRP
+    100122: Torso
+    100124: Torso 1
+    100126: Torso_Joint
+    400000: //RootNode
+    400002: Female_Coyote
+    400004: Geo_GRP
+    400006: Guitar1
+    400008: Head
+    400010: Head 1
+    400012: Head_Joint
+    400014: Hip
+    400016: Hip_Joint
+    400018: Lef_Hand
+    400020: Left_Arm
+    400022: Left_Arm_Joint
+    400024: Left_Ear
+    400026: Left_Ear_Joint
+    400028: Left_Elbow_Joint
+    400030: Left_Foot1
+    400032: Left_Foot_Joint
+    400034: Left_Hand_Joint
+    400036: Left_Leg
+    400038: Left_Lower_Arm
+    400040: Left_Lower_Leg
+    400042: Left_Lower_Leg_Joint
+    400044: Left_Toes
+    400046: Left_Toes_Joint
+    400048: Left_Upper_Arm
+    400050: Left_Upper_Leg
+    400052: Left_Upper_Leg_Joint
+    400054: Neck_1
+    400056: Neck_1_Joint
+    400058: Neck_2
+    400060: Neck_2_Joint
+    400062: polySurface24
+    400064: Right_Arm
+    400066: Right_Arm_Joint
+    400068: Right_Ear
+    400070: Right_Ear_Joint
+    400072: Right_Elbow_Joint
+    400074: Right_Foot1
+    400076: Right_Foot_Joint
+    400078: Right_Hand
+    400080: Right_Hand_Joint
+    400082: Right_Leg
+    400084: Right_Lower_Arm
+    400086: Right_Lower_Leg
+    400088: Right_Lower_Leg_Joint
+    400090: Right_Toes
+    400092: Right_Toes_Joint
+    400094: Right_Upper_Arm
+    400096: Right_Upper_Leg
+    400098: Right_Upper_Leg_Joint
+    400100: Skeleton_GRP
+    400102: Stomach
+    400104: Stomach_Joint
+    400106: Tail
+    400108: Tail_1
+    400110: Tail_1_Joint
+    400112: Tail_2
+    400114: Tail_2_Joint
+    400116: Tail_3
+    400118: Tail_3_Joint
+    400120: TailGRP
+    400122: Torso
+    400124: Torso 1
+    400126: Torso_Joint
+    2300000: Guitar1
+    2300002: Head 1
+    2300004: Hip
+    2300006: Lef_Hand
+    2300008: Left_Ear
+    2300010: Left_Foot1
+    2300012: Left_Lower_Arm
+    2300014: Left_Lower_Leg
+    2300016: Left_Toes
+    2300018: Left_Upper_Arm
+    2300020: Left_Upper_Leg
+    2300022: Neck_1
+    2300024: Neck_2
+    2300026: Right_Ear
+    2300028: Right_Foot1
+    2300030: Right_Hand
+    2300032: Right_Lower_Arm
+    2300034: Right_Lower_Leg
+    2300036: Right_Toes
+    2300038: Right_Upper_Arm
+    2300040: Right_Upper_Leg
+    2300042: Stomach
+    2300044: Tail_1
+    2300046: Tail_2
+    2300048: Tail_3
+    2300050: Torso 1
+    3300000: Guitar1
+    3300002: Head 1
+    3300004: Hip
+    3300006: Lef_Hand
+    3300008: Left_Ear
+    3300010: Left_Foot1
+    3300012: Left_Lower_Arm
+    3300014: Left_Lower_Leg
+    3300016: Left_Toes
+    3300018: Left_Upper_Arm
+    3300020: Left_Upper_Leg
+    3300022: Neck_1
+    3300024: Neck_2
+    3300026: Right_Ear
+    3300028: Right_Foot1
+    3300030: Right_Hand
+    3300032: Right_Lower_Arm
+    3300034: Right_Lower_Leg
+    3300036: Right_Toes
+    3300038: Right_Upper_Arm
+    3300040: Right_Upper_Leg
+    3300042: Stomach
+    3300044: Tail_1
+    3300046: Tail_2
+    3300048: Tail_3
+    3300050: Torso 1
+    4300000: Tail_1
+    4300002: Tail_2
+    4300004: Tail_3
+    4300006: Left_Upper_Arm
+    4300008: Left_Lower_Arm
+    4300010: Lef_Hand
+    4300012: Torso
+    4300014: Stomach
+    4300016: Hip
+    4300018: Neck_1
+    4300020: Neck_2
+    4300022: Head
+    4300024: Left_Ear
+    4300026: Right_Ear
+    4300028: Right_Lower_Arm
+    4300030: Right_Upper_Arm
+    4300032: Right_Hand
+    4300034: Left_Upper_Leg
+    4300036: Left_Lower_Leg
+    4300038: Left_Foot1
+    4300040: Left_Toes
+    4300042: Right_Lower_Leg
+    4300044: Right_Upper_Leg
+    4300046: Right_Foot1
+    4300048: Right_Toes
+    4300050: Guitar1
+    7400000: HighAttack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HighAttack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Female_Coyote
+        weight: 1
+      - path: Female_Coyote/Geo_GRP
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head/Head 1
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head/Left_Ear
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head/Neck_1
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head/Neck_2
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Head/Right_Ear
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Arm/Lef_Hand
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Arm/Left_Lower_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Arm/Left_Upper_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Leg/Left_Foot1
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Leg/Left_Lower_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Leg/Left_Toes
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Left_Leg/Left_Upper_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Arm/Right_Hand
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Arm/Right_Lower_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Arm/Right_Upper_Arm
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Leg/Right_Foot1
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Leg/Right_Lower_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Leg/Right_Toes
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Right_Leg/Right_Upper_Leg
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Tail
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Tail/polySurface24
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/TailGRP
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/TailGRP/Tail_1
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/TailGRP/Tail_2
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/TailGRP/Tail_3
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Torso
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Torso/Hip
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Torso/Stomach
+        weight: 1
+      - path: Female_Coyote/Geo_GRP/Torso/Torso 1
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Head_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Head_Joint/Left_Ear_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Head_Joint/Right_Ear_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Hip_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Arm_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Elbow_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Foot_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Hand_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Lower_Leg_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Toes_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Left_Upper_Leg_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Neck_1_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Neck_2_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Arm_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Elbow_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Foot_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Hand_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Lower_Leg_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Toes_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Right_Upper_Leg_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Stomach_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Tail_1_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Tail_2_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Tail_3_Joint
+        weight: 1
+      - path: Female_Coyote/Skeleton_GRP/Torso_Joint
+        weight: 1
+      - path: Guitar1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8 @@
+1. Look through file directory for Assets folder
+
+2. Directly under Assets open scene called "Animation_Sandbox"
+
+3. Each player uses the Animator Controller called "TestAnim2".  Swap the current clips in the mecanim tree with your own to test them.
+
+4. PLEASE KEEP ALL CHANGES YOU MAKE LOCAL, DO NOT PUSH ANYTHING TO GITHUB.  THIS IS FOR TESTING PURPOSES ONLY.
+

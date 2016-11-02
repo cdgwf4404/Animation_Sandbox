@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MovementP2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Movement.cs" Line="99" Column="67" />
+      <File FileName="Assets\Scripts\newControllerMove.cs" Line="33" Column="18" />
+      <File FileName="Assets\Scripts\TempShoot.cs" Line="56" Column="4" />
+      <File FileName="Assets\Scripts\TempShootP2.cs" Line="138" Column="5" />
+      <File FileName="Assets\Scripts\MovementP2.cs" Line="39" Column="67" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
